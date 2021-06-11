@@ -1,0 +1,10 @@
+1. http://www.brokking.net/ymfc-32_main.html
+2. http://www.brokking.net/ymfc-al_main.html
+3. https://howtomechatronics.com/projects/diy-arduino-rc-transmitter/
+4. https://forum.arduino.cc/index.php?topic=421081.0
+5. https://www.st.com/resource/en/datasheet/stm32f103c8.pdf
+6. https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
+7. https://playground.arduino.cc/Code/BitMath/
+8. https://github.com/stm32duino/wiki/wiki/API
+9. https://www.e-tinkers.com/2020/01/getting-started-with-stm32-and-things-you-need-to-be-aware-of/
+10. https://github.com/keirf/Greaseweazle/wiki/STM32-Fakes#rogues-gallery
